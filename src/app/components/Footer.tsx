@@ -2,8 +2,8 @@ import { motion } from "motion/react";
 import { Github, Linkedin, Twitter, Mail, ArrowUp } from "lucide-react";
 
 const socials = [
-  { icon: Github, href: "#", label: "GitHub" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
+  { icon: Github, href: "https://github.com/eswartejgopavarapu-ux", label: "GitHub" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/eswar-tej-gopavarapu-406108404/", label: "LinkedIn" },
   { icon: Twitter, href: "#", label: "Twitter" },
   { icon: Mail, href: "mailto:eswartejgopavarapu@gmail.com", label: "Email" },
 ];
