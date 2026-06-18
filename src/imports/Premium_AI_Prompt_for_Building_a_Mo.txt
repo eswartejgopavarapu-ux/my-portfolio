@@ -1,0 +1,314 @@
+Premium AI Prompt for Building a Modern Student Portfolio Website
+
+Create a stunning, futuristic, and recruiter-attracting portfolio website for Gopavarapu Eswar Tej, a B.Tech student specializing in Artificial Intelligence & Data Science Engineering at Amrita Vishwa Vidyapeetham.
+
+The website should look like a modern startup founder's portfolio with smooth animations, cinematic transitions, interactive elements, and a premium user experience. The goal is to impress recruiters, internship providers, professors, and industry professionals.
+
+Tech Stack
+Next.js 15 / React.js
+Tailwind CSS
+Framer Motion
+GSAP Animations
+Three.js (for hero effects)
+React Icons
+TypeScript
+Design Style
+
+Create a futuristic AI-themed portfolio with:
+
+Dark theme by default
+Glassmorphism UI
+Gradient lighting effects
+Floating particles
+AI-inspired animated background
+Smooth scrolling
+Page reveal animations
+Scroll-triggered transitions
+Magnetic buttons
+Mouse-follow glow effect
+Modern typography (Poppins + Inter)
+Fully responsive design
+Color Palette
+Primary: #3B82F6
+Secondary: #8B5CF6
+Accent: #06B6D4
+Background: #050816
+Surface: rgba(255,255,255,0.05)
+Text: #FFFFFF
+Hero Section
+
+Full-screen hero section.
+
+Animated Introduction
+
+Display:
+
+Hello, I'm
+Gopavarapu Eswar Tej
+AI & Data Science Student
+Aspiring Machine Learning Engineer
+Future AI Innovator
+
+Typewriter Animation:
+
+Building Intelligent Solutions with AI, Data Science, and Python
+
+Buttons:
+
+View Projects
+Download Resume
+Contact Me
+
+Background Effects:
+
+Floating neural network animation
+AI particles
+Animated gradient mesh
+Three.js interactive effect
+
+Profile image should float gently.
+
+About Me Section
+
+Modern split-screen layout.
+
+Title
+
+About Me
+
+Content:
+
+I am a passionate Artificial Intelligence and Data Science Engineering student pursuing my B.Tech at Amrita Vishwa Vidyapeetham, Coimbatore.
+
+I am deeply interested in:
+
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Python Development
+Data Analytics
+
+I enjoy solving real-world problems using intelligent systems and continuously improving my technical and analytical skills.
+
+Animated Statistics
+
+Display counters:
+
+CGPA: 6.8
+AI Projects: 1+
+Certifications: 1+
+Technologies: 5+
+
+Counter animation should trigger while scrolling.
+
+Education Section
+
+Create an interactive vertical timeline.
+
+B.Tech
+
+Artificial Intelligence & Data Science Engineering
+
+Amrita Vishwa Vidyapeetham
+
+CGPA: 6.8
+
+Intermediate (MPC)
+
+Bhashyam Junior College
+
+CGPA: 9.0
+
+Schooling
+
+Tiny Tots School
+
+Marks: 515
+
+Timeline should animate progressively as the user scrolls.
+
+Skills Section
+
+Create animated skill cards.
+
+Programming
+C
+Python
+Databases
+MySQL
+Tools
+VS Code
+Operating Systems
+Windows
+
+Use:
+
+Animated progress circles
+Hover glow effects
+Floating technology icons
+Skill card expansion animations
+Featured AI Project Section
+
+Create a premium project showcase.
+
+Joint Entropy-Guided NMS-Free Lightweight and Resource-Efficient Framework for Edge-Optimized Autonomous Power Line Inspection of Insulator Defects
+
+Tech Stack:
+
+Python
+Computer Vision
+AI
+Machine Learning
+
+Description:
+
+Developed an AI-powered defect detection system for power line insulators. The framework is optimized for edge devices, enabling efficient real-time inspection with reduced computational resources while maintaining high accuracy.
+
+Features
+Real-Time Defect Detection
+Edge Device Optimization
+Computer Vision-Based Analysis
+Resource Efficient Framework
+AI-Driven Inspection System
+
+Add:
+
+Animated project preview
+Hover tilt effect
+Glassmorphism project card
+GitHub button placeholder
+AI Interests Section
+
+Create a visually attractive section displaying interests.
+
+Use animated cards.
+
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Data Science
+Edge AI
+
+When hovering:
+
+Card glows
+Icon animates
+Description appears
+Certifications Section
+
+Create certificate showcase cards.
+
+AI/ML Course
+
+Coursera
+
+Features:
+
+Floating certificate badge
+Expandable details
+Hover shine effect
+Strengths Section
+
+Display strengths as animated cards.
+
+Self Learner
+Self Motivated
+Quick Learner
+
+Use Lottie animations or animated icons.
+
+Hobbies Section
+
+Interactive hobby cards.
+
+Playing Cricket
+Watching Movies
+
+Cards should flip on hover.
+
+Contact Section
+
+Create a modern contact section.
+
+Display:
+
+Email:
+eswartejgopavarapu@gmail.com
+
+Phone:
++91 9000102226
+
+Languages:
+
+English
+Telugu
+Hindi (Read)
+
+Add:
+
+Contact Form
+
+Fields:
+
+Name
+Email
+Subject
+Message
+
+Features:
+
+Validation
+Success animation
+Modern glass UI
+Footer
+
+Display:
+
+Designed & Developed by Gopavarapu Eswar Tej
+
+Include:
+
+Social icons
+Scroll-to-top button
+Smooth hover animations
+Advanced Animation Requirements
+
+Use Framer Motion and GSAP extensively:
+
+Hero
+Typewriter effect
+Floating profile image
+Fade-in text
+Particle motion
+Scroll Animations
+Reveal sections on scroll
+Stagger card animations
+Timeline fill animation
+Progress indicators
+Hover Effects
+Glow cards
+Scale animations
+Magnetic buttons
+3D tilt effects
+Page Effects
+Smooth page transitions
+Mouse tracking glow
+Animated gradient backgrounds
+Loading screen animation
+Premium Features
+
+Include:
+
+Dark / Light Mode Toggle
+SEO Optimization
+Fast Loading
+Accessibility Support
+Resume Download Feature
+Mobile-First Design
+Smooth Scrolling
+Animated Cursor
+Glassmorphism UI
+Interactive AI-Themed Background
+Recruiter-Friendly Layout
+
+Generate production-ready code with a professional folder structure, reusable React components, optimized animations, clean UI design, and modern software engineering practices. The final portfolio should look like a premium AI engineer portfolio rather than a
