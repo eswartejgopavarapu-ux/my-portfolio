@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { motion } from "motion/react";
 import { ChevronDown, Download, Mail, Eye } from "lucide-react";
-import resumePdf from "../../imports/EswariS_BTech_Updated.pdf";
+import resumePdf from "../../imports/G Eswar Tej BTech.pdf";
 
 const typewriterPhrases = [
   "Building Intelligent Solutions with AI",
